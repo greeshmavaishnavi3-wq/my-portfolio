@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="cyberG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#080d1a"/>
+  <path d="M28 35L42 50L28 65" stroke="url(#cyberG)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <line x1="50" y1="65" x2="72" y2="65" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+</svg>
